@@ -3,4 +3,4 @@ Tip TIme is a basic tip calculator application in kotlin. It splits the bill fas
 
 ## Screenshots
 
-<img src="screenshot/ss.png" width=350 alt="Screenshot of the app.">
+<img src="screenshot/ss.jpeg" width=350 alt="Screenshot of the app.">
